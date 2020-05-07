@@ -1,17 +1,43 @@
 # Site settings
-title: Mauricio Urraco
-description: Resume Website
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Tom Keane
+description: MSc Statistics Student at Imperial College London
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:8080" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+username: Tom Keane
+user_title: MSc Statistics Student at Imperial College London
+user_description: This page is designed to be a collection of assignments and projects which I have undertaken over the last five years of my university education. First off a little bit about me, I'm currently completing the research portion of an MSc in Statistics at Imperial College London. Before that, I completed a four year BSc in Financial Mathematics in University College Dublin. My main areas of interest lie in NLP and all things machine learning and data science. I hope to work at the fore-front of these areas, particularly their application to business. With a strong background in Python and R, I would be delighted to discuss any related opportunities.
+
+project_1_title: Investigation of Racial Bias in pre-trained word embeddings.
+project_1_subtitle: R
+project_1_timeframe: Two weeks (2020)
+project_1_description: This project was completed as part of a coursework submitted for a data science module. It contains an investigation of Racial bias in three pre-trained word embeddings. This included the usage of the inner product between a 'racial' vector and a 'semantic' vector as a measure of bias. Original visualisations of the level of bias are presented using ggplot2. 
+
+project_2_title: Implementation of Ridge Regression and Naive Bayes modules.
+project_2_subtitle: Python
+project_2_timeframe: Two weeks (2020)
+project_2_description: This project was completed as part of a coursework submitted for a machine learning module. The first question of the coursework required the comparison of linear and quadratic ridge regressions to a base linear and quadratic models. The second question required the investigation of three different Naive Bayes models for spam detection. The use of libraries was forbidden and therefore we were required to create our own Python modules for this assignment. I decided to make use of Python's object orientated features to create these modules.
+
+project_3_title: Analysis of three datasets using Neural Networks, ensemble methods, and Gaussian Processes. 
+project_3_subtitle: R
+project_3_timeframe: Three weeks (2020)
+project_3_description: This project was completed as part of a coursework submitted for a machine learning module. The three datasets were provided by the lecturer along with prescribed methods to be implemented and tuned on the data. It required the full explanation of Feed-forward Neural Networks, Gaussian Processes and Principle Component Analysis. The neural networks were implemented in Keras through R. 
+
+project_4_title: Demonstration of API access, unit-testing development and
+project_4_subtitle: Python
+project_4_timeframe: Two days (2020)
+project_4_description: This project was completed as part of two course-works submitted for a data science module. The code written demonstrates an understanding of the fundamentals of API access and unit-test development. The second coursework tested the ability to construct a data pipeline for crime data in London. The code was also profiled using a basic timing function.
+
+project_5_title: MCMC sampling and computational statistics
+project_5_subtitle: R
+project_5_timeframe: 6 hours (2020)
+project_5_description: This project was completed as part of a 8 hour assignment for a computational statistics module. It included questions on Metropolis hasting sampling and the special case of Gibbs sampling. This project demonstrates an ability to produce accurate reports on short deadlines. 
+
+project_6_title: Exploration and Implementation of Spectral Clustering
+project_6_subtitle: R
+project_6_timeframe: Fifteen weeks (2018)
+project_6_description: This project was submitted as an undergraduate thesis. The initial research question related to the validity of a spectral clustering technique used in the development of a change point detection algorithm. Due to the inability to replicate the results presented in the paper, the thesis focused on the inherent problem with un-supervised machine learning techniques. The lack of assumptions made about the data led to an inability to correctly tune the spectral clustering hyper-parameters. This means that the technique cannot be used effectively in many applications.
 
 # Google-analytics
 google-analytics:
