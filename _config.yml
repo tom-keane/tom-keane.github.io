@@ -24,7 +24,7 @@ project_3_subtitle: R
 project_3_timeframe: Three weeks (2020)
 project_3_description: This project was completed as part of a coursework submitted for a machine learning module. The three datasets were provided by the lecturer along with prescribed methods to be implemented and tuned on the data. It required the full explanation of Feed-forward Neural Networks, Gaussian Processes and Principle Component Analysis. The neural networks were implemented in Keras through R. 
 
-project_4_title: Demonstration of API access, unit-testing development and
+project_4_title: Demonstration of API access, unit-testing development and data pipelines
 project_4_subtitle: Python
 project_4_timeframe: Two days (2020)
 project_4_description: This project was completed as part of two course-works submitted for a data science module. The code written demonstrates an understanding of the fundamentals of API access and unit-test development. The second coursework tested the ability to construct a data pipeline for crime data in London. The code was also profiled using a basic timing function.
