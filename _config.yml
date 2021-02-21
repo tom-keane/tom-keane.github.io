@@ -12,21 +12,8 @@ user_description: This page is designed to be a collection of assignments and pr
 project_1_title: Statistical Inference for Hawkes Processes with Deep Learning
 project_1_subtitle: R
 project_1_timeframe: Four Months(2020)
-project_1_description: Hawkes processes and their applications are a fast-growing area of study. A key difficulty for their application to certain areas is imprecise observation leading to censored
-event times. The resulting processes have been termed as aggregated Hawkes processes.
-This thesis aims to address statistical inference and parameter estimation for aggregated
-Hawkes processes. This is achieved using deep learning frameworks such as Variational
-Auto-Encoders (VAEs) and Neural Networks. Two methodologies are developed in this
-thesis; one regarding the successful encoding of the aggregated data using a Variational
-Auto-Encoder and a Poisson likelihood, and the other uses a Multilayer Perceptron to
-solve the problem of parameter estimation. The successful application of VAEs to aggregated Hawkes processes allowed for Bayesian inference to be performed on the branching
-ratio and the baseline intensity. The potential of this method is demonstrated using
-four test processes with a range of underlying parameters. The problem of parameter
-estimation was successfully approached using a blended supervised learning technique.
-This method was tested comprehensively using a range of parameter values to establish
-an understanding of its performance. It was concluded that the method developed in this
-thesis provides similar performance to other solutions but with a significantly reduced
-computational time.
+project_1_description: Hawkes processes and their applications are a fast-growing area of study. A key difficulty for their application to certain areas is imprecise observation leading to censored event times. The resulting processes have been termed as aggregated Hawkes processes. This thesis aims to address statistical inference and parameter estimation for aggregated Hawkes processes. This is achieved using deep learning frameworks such as Variational Auto-Encoders (VAEs) and Neural Networks. Two methodologies are developed in this thesis; one regarding the successful encoding of the aggregated data using a Variational Auto-Encoder and a Poisson likelihood, and the other uses a Multilayer Perceptron to solve the problem of parameter estimation. The successful application of VAEs to aggregated Hawkes processes allowed for Bayesian inference to be performed on the branching ratio and the baseline intensity. The potential of this method is demonstrated using four test processes with a range of underlying parameters. The problem of parameter estimation was successfully approached using a blended supervised learning technique.
+This method was tested comprehensively using a range of parameter values to establish an understanding of its performance. It was concluded that the method developed in this thesis provides similar performance to other solutions but with a significantly reduced computational time.
 
 project_2_title: Investigation of Racial Bias in pre-trained word embeddings.
 project_2_subtitle: R
